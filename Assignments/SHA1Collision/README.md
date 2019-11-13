@@ -1,5 +1,5 @@
 ## Description 
-This is a simple Java program that finds a collision for the first 60 bits (15 nibbles) of SHA-1. 
+This is a simple Java program that finds a collision for **the first 60 bits (15 nibbles) of SHA-1**. 
 
 ## Input: 
 **Scope** : Real numbers (starting from 1)
