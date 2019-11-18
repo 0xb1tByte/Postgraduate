@@ -8,7 +8,7 @@ int fd;
 char *v[2];
 /* 
 - Assume that /etc/zzz is an important system file and it is owned by root with permission 0644
-- Before running this program m you must  create the file /etc/zzz first 
+- Before running this program you must create the file /etc/zzz first 
 */
 fd = open("/etc/zzz",O_RDWR | O_APPEND);
 if( fd == -1)
