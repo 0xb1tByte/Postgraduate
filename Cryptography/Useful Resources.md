@@ -33,6 +33,8 @@
 ## RSA : 
 ### Useful Tutorials
 #### Video  :arrow_forward: :
+- [ENGLISH : Euclidean algorithm to find GCD of two number](https://www.youtube.com/watch?v=b1ZV2VzNqAo)
+- [ENGLISH : Extended Euclidean Algorithm - Example (Simplified)](https://www.youtube.com/watch?v=-uFc7-wOplM)
 - [ENGLISH : Euler's Phi Function](https://www.youtube.com/watch?v=JcAxWlWgAY4)
 - [ENGLISH : Euler's theorem](https://www.youtube.com/watch?v=EcAT1XmHouk)
 
