@@ -38,6 +38,10 @@
 - [ENGLISH : Euler's Phi Function](https://www.youtube.com/watch?v=JcAxWlWgAY4)
 - [ENGLISH : Euler's theorem](https://www.youtube.com/watch?v=EcAT1XmHouk)
 
+#### Slides: :book:
+- [ENGLISH : Mathematics of Cryptography](https://people.utm.my/marinama/files/2016/11/Ch-09-Mathematics-Of-Cryptography-for-students.pdf) > I HIGHLY recommend reading these slides.
+
+
 ------------ 
 * The rest will be updated soon, just pray that I can get some time for them
 
