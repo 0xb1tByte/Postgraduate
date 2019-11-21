@@ -33,7 +33,7 @@
 ## RSA : 
 ### Useful Tutorials
 #### Video  :arrow_forward: :
-- [ENGLISH : Euler's Phi Function](https://www.youtube.com/watch?v=EcAT1XmHouk)
+- [ENGLISH : Euler's Phi Function](https://www.youtube.com/watch?v=JcAxWlWgAY4)
 - [ENGLISH : Euler's theorem](https://www.youtube.com/watch?v=EcAT1XmHouk)
 
 ------------ 
