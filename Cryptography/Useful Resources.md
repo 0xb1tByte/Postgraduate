@@ -1,13 +1,11 @@
 # 1 Symmetric Key Algorithms
 ## 1.1 MISC 
-### Useful Tutorials :
 #### Video  :arrow_forward: :
 - [ARABIC : Rail Fence](https://www.youtube.com/watch?v=27EgALog5Xk&list=PL_gjhTTYbu53EWmXi16OjwudCdSi3VjQB&index=2&t=0s)
 - [ARABIC: Ceaser Cipher](https://www.youtube.com/watch?v=YB41BoVlLVU&list=PL_gjhTTYbu53EWmXi16OjwudCdSi3VjQB&index=5&t=0s)
 - [ARABIC : Row Transposition](https://www.youtube.com/watch?v=3S-dEoxW1kk&list=PL_gjhTTYbu53EWmXi16OjwudCdSi3VjQB&index=6&t=0s)
 - [ARABIC: Vernem Stram](https://www.youtube.com/watch?v=BcFG6H8U7Ig&list=PL_gjhTTYbu53EWmXi16OjwudCdSi3VjQB&index=7&t=0s)
 - [ARABIC: One-Time Pad](https://www.youtube.com/watch?v=P-5MqFh3nuc&list=PL_gjhTTYbu53EWmXi16OjwudCdSi3VjQB&index=10&t=0s)
-
 
 
 ## 1.2 DES : 
@@ -25,13 +23,11 @@
 
 # 2 Public Key Algorithms
 ## 2.1 MISC 
-### Useful Tutorials :
 #### Video  :arrow_forward: :
 - [ARABIC : Modular Arithmetic](https://www.youtube.com/watch?v=VWK0BOUmdBs&list=PL_gjhTTYbu53EWmXi16OjwudCdSi3VjQB&index=32&t=0s)
 
 
 ## 2.2 RSA : 
-### Useful Tutorials
 #### Video  :arrow_forward: :
 - [ARABIC : Extended Euclidean Algorithm](https://www.youtube.com/watch?v=SlSPLvXjlYY)
 - [ARABIC : modular Inverse,Euler‘s Phi Function,Fermat‘s Little Theorem](https://www.youtube.com/watch?v=k-ZkMxPiRAI)
