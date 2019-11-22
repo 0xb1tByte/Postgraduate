@@ -22,13 +22,9 @@
 - [ARABIC : AES Message Expansion](https://www.youtube.com/watch?v=j3vsvtgsitw&list=PL_gjhTTYbu53EWmXi16OjwudCdSi3VjQB&index=20&t=0s)
 
 # 2 Public Key Algorithms
-## 2.1 MISC 
+## 2.1 RSA : 
 #### Video  :arrow_forward: :
 - [ARABIC : Modular Arithmetic](https://www.youtube.com/watch?v=VWK0BOUmdBs&list=PL_gjhTTYbu53EWmXi16OjwudCdSi3VjQB&index=32&t=0s)
-
-
-## 2.2 RSA : 
-#### Video  :arrow_forward: :
 - [ARABIC : Extended Euclidean Algorithm](https://www.youtube.com/watch?v=SlSPLvXjlYY)
 - [ARABIC : modular Inverse,Euler‘s Phi Function,Fermat‘s Little Theorem](https://www.youtube.com/watch?v=k-ZkMxPiRAI)
 - [ENGLISH : Euler's Phi Function](https://www.youtube.com/watch?v=JcAxWlWgAY4)
