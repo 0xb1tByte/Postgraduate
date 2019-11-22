@@ -19,7 +19,7 @@
 ## AES :
 ### Useful Tools  :wrench: : 
 - [AES Visualization Tool ](https://pages.mtu.edu/~shene/NSF-4/AES-Downloads/index.html)
-### Execrsices : 
+### Execrsices :pencil2: : 
 - [ARABIC : AES Message Encryption](https://www.youtube.com/watch?v=Rb9osHCyYFA&list=PL_gjhTTYbu53EWmXi16OjwudCdSi3VjQB&index=19&t=0s)
 - [ARABIC : AES Message Expansion](https://www.youtube.com/watch?v=j3vsvtgsitw&list=PL_gjhTTYbu53EWmXi16OjwudCdSi3VjQB&index=20&t=0s)
 
