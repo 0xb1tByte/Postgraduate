@@ -11,7 +11,7 @@
 
 
 ## DES : 
-### Execrsices : 
+### Execrsices :pencil2: : 
 - [ARABIC : DES Message Encryption](https://www.youtube.com/watch?v=5D7cUCMHskI&list=PL_gjhTTYbu53EWmXi16OjwudCdSi3VjQB&index=21&t=0s)
 - [ARABIC : DES Key Creation](https://www.youtube.com/watch?v=xVXoyb3if3E&list=PL_gjhTTYbu53EWmXi16OjwudCdSi3VjQB&index=22&t=0s)
 
@@ -38,7 +38,7 @@
 - [ENGLISH : Euler's Phi Function](https://www.youtube.com/watch?v=JcAxWlWgAY4)
 - [ENGLISH : Euler's theorem](https://www.youtube.com/watch?v=EcAT1XmHouk)
 
-### Execrsices : 
+### Execrsices :pencil2: : 
 - [ENGLISH : Euclidean algorithm to find GCD of two number](https://www.youtube.com/watch?v=b1ZV2VzNqAo)
 - [ENGLISH : Extended Euclidean Algorithm - Example (Simplified)](https://www.youtube.com/watch?v=-uFc7-wOplM)
 - [ENGLISH : How To Find The Inverse of a Number ( mod n ) - Inverses of Modular Arithmetic - Example](https://www.youtube.com/watch?v=shaQZg8bqUM)
