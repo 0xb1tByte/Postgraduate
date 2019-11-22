@@ -23,12 +23,16 @@
 
 # 2 Public Key Algorithms
 ## 2.1 RSA : 
+
 #### Video  :arrow_forward: :
 - [ARABIC : Modular Arithmetic](https://www.youtube.com/watch?v=VWK0BOUmdBs&list=PL_gjhTTYbu53EWmXi16OjwudCdSi3VjQB&index=32&t=0s)
 - [ARABIC : Extended Euclidean Algorithm](https://www.youtube.com/watch?v=SlSPLvXjlYY)
 - [ARABIC : modular Inverse,Euler‘s Phi Function,Fermat‘s Little Theorem](https://www.youtube.com/watch?v=k-ZkMxPiRAI)
 - [ENGLISH : Euler's Phi Function](https://www.youtube.com/watch?v=JcAxWlWgAY4)
 - [ENGLISH : Euler's theorem](https://www.youtube.com/watch?v=EcAT1XmHouk)
+
+### Useful Tools  :wrench: : 
+- [Euler's Totient Calculator – Up To 20 Digits!](http://www.kourbatov.com/math/calculators/eulertotientfunction.htm)
 
 ### Execrsices :pencil2: : 
 - [ENGLISH : Euclidean algorithm to find GCD of two number](https://www.youtube.com/watch?v=b1ZV2VzNqAo)
