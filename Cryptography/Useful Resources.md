@@ -1,5 +1,5 @@
-# Symmetric Key Algorithms
-## MISC 
+# 1 Symmetric Key Algorithms
+## 1.1 MISC 
 ### Useful Tutorials :
 #### Video  :arrow_forward: :
 - [ARABIC : Rail Fence](https://www.youtube.com/watch?v=27EgALog5Xk&list=PL_gjhTTYbu53EWmXi16OjwudCdSi3VjQB&index=2&t=0s)
@@ -10,27 +10,27 @@
 
 
 
-## DES : 
+## 1.2 DES : 
 ### Execrsices :pencil2: : 
 - [ARABIC : DES Message Encryption](https://www.youtube.com/watch?v=5D7cUCMHskI&list=PL_gjhTTYbu53EWmXi16OjwudCdSi3VjQB&index=21&t=0s)
 - [ARABIC : DES Key Creation](https://www.youtube.com/watch?v=xVXoyb3if3E&list=PL_gjhTTYbu53EWmXi16OjwudCdSi3VjQB&index=22&t=0s)
 
 
-## AES :
+## 1.3 AES :
 ### Useful Tools  :wrench: : 
 - [AES Visualization Tool ](https://pages.mtu.edu/~shene/NSF-4/AES-Downloads/index.html)
 ### Execrsices :pencil2: : 
 - [ARABIC : AES Message Encryption](https://www.youtube.com/watch?v=Rb9osHCyYFA&list=PL_gjhTTYbu53EWmXi16OjwudCdSi3VjQB&index=19&t=0s)
 - [ARABIC : AES Message Expansion](https://www.youtube.com/watch?v=j3vsvtgsitw&list=PL_gjhTTYbu53EWmXi16OjwudCdSi3VjQB&index=20&t=0s)
 
-# Public Key Algorithms
-## MISC 
+# 2 Public Key Algorithms
+## 2.1 MISC 
 ### Useful Tutorials :
 #### Video  :arrow_forward: :
 - [ARABIC : Modular Arithmetic](https://www.youtube.com/watch?v=VWK0BOUmdBs&list=PL_gjhTTYbu53EWmXi16OjwudCdSi3VjQB&index=32&t=0s)
 
 
-## RSA : 
+## 2.2 RSA : 
 ### Useful Tutorials
 #### Video  :arrow_forward: :
 - [ARABIC : Extended Euclidean Algorithm](https://www.youtube.com/watch?v=SlSPLvXjlYY)
