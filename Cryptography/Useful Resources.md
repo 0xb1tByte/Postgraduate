@@ -35,10 +35,13 @@
 #### Video  :arrow_forward: :
 - [ARABIC : Extended Euclidean Algorithm](https://www.youtube.com/watch?v=SlSPLvXjlYY)
 - [ARABIC : modular Inverse,Euler‘s Phi Function,Fermat‘s Little Theorem](https://www.youtube.com/watch?v=k-ZkMxPiRAI)
-- [ENGLISH : Euclidean algorithm to find GCD of two number](https://www.youtube.com/watch?v=b1ZV2VzNqAo)
-- [ENGLISH : Extended Euclidean Algorithm - Example (Simplified)](https://www.youtube.com/watch?v=-uFc7-wOplM)
 - [ENGLISH : Euler's Phi Function](https://www.youtube.com/watch?v=JcAxWlWgAY4)
 - [ENGLISH : Euler's theorem](https://www.youtube.com/watch?v=EcAT1XmHouk)
+
+### Execrsices : 
+- [ENGLISH : Euclidean algorithm to find GCD of two number](https://www.youtube.com/watch?v=b1ZV2VzNqAo)
+- [ENGLISH : Extended Euclidean Algorithm - Example (Simplified)](https://www.youtube.com/watch?v=-uFc7-wOplM)
+- [ENGLISH : How To Find The Inverse of a Number ( mod n ) - Inverses of Modular Arithmetic - Example](https://www.youtube.com/watch?v=shaQZg8bqUM)
 
 #### Slides: :book:
 - [ENGLISH : Mathematics of Cryptography](https://people.utm.my/marinama/files/2016/11/Ch-09-Mathematics-Of-Cryptography-for-students.pdf) > I HIGHLY recommend reading these slides.
