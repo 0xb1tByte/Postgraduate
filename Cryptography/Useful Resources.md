@@ -32,6 +32,7 @@
 - [ENGLISH : Euler's theorem](https://www.youtube.com/watch?v=EcAT1XmHouk)
 
 #### Useful Tools  :wrench: : 
+- [Modular Exponentiation](https://www.dcode.fr/modular-exponentiation)
 - [Euler's Totient Calculator – Up To 20 Digits!](http://www.kourbatov.com/math/calculators/eulertotientfunction.htm)
 
 #### Execrsices :pencil2: : 
