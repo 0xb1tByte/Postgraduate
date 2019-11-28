@@ -43,6 +43,11 @@
 #### Slides: :book:
 - [ENGLISH : Mathematics of Cryptography](https://people.utm.my/marinama/files/2016/11/Ch-09-Mathematics-Of-Cryptography-for-students.pdf) > I HIGHLY recommend reading these slides.
 
+## 2.2 The Discrete Log Problem
+
+#### Video  :arrow_forward: :
+- [ENGLISH: Applied Cryptography: The Discrete Log Problem - Part 1](https://www.youtube.com/watch?v=n41Z0c9Jm4Y)
+
 
 ------------ 
 * The rest will be updated soon, just pray that I can get some time for them
