@@ -1,3 +1,4 @@
+- [ENGLISH: Applied Crypto](https://www.youtube.com/playlist?list=PL1xkDS1G9As4Yz_te20j1A9evIjt5Z06e)  > This playlist almost covers every topic listed here; I HIGHLY recommend watching it.
 # 1 Symmetric Key Algorithms
 ## 1.1 MISC 
 #### Video  :arrow_forward: :
@@ -44,10 +45,6 @@
 - [ENGLISH : Mathematics of Cryptography](https://people.utm.my/marinama/files/2016/11/Ch-09-Mathematics-Of-Cryptography-for-students.pdf) > I HIGHLY recommend reading these slides.
 
 ## 2.2 The Discrete Log Problem
-
-#### Video  :arrow_forward: :
-- [ENGLISH: The Discrete Log Problem](https://www.youtube.com/playlist?list=PL1xkDS1G9As7E_fPaLaFchq1a27I9a5tO) > I HIGHLY recommend watching this playlist
-
 
 ------------ 
 * The rest will be updated soon, just pray that I can get some time for them
