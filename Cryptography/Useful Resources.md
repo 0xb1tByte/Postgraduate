@@ -46,7 +46,7 @@
 ## 2.2 The Discrete Log Problem
 
 #### Video  :arrow_forward: :
-- [ENGLISH: Applied Cryptography: The Discrete Log Problem - Part 1](https://www.youtube.com/watch?v=n41Z0c9Jm4Y)
+- [ENGLISH: The Discrete Log Problem](https://www.youtube.com/playlist?list=PL1xkDS1G9As7E_fPaLaFchq1a27I9a5tO) > I HIGHLY recommend watching this playlist
 
 
 ------------ 
