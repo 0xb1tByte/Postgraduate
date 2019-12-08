@@ -7,7 +7,7 @@ a simple java program that automates some operations in **Modular** , the progra
 - ModularMultiplicativeInverseForBigInteger()
 ##### 2- For Small Numbers (int)
 - ModularExponent()
-- ModularExponentLoop
+- ModularExponentLoop()
 
 #### WHY!: 
 - Because the mathematicians people -crypto people in specific- ask us to calculate it by hand, BUT we are programmers and lazy, so we automate it! 
