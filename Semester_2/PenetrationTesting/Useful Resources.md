@@ -7,6 +7,6 @@
 
 #### Useful Tools  :wrench: : 
 
-#### Slides/Articles/Papers: :book:
+#### Slides/Articles/Papers :book: :
 
 
