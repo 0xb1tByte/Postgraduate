@@ -14,3 +14,5 @@
 [Present code 3 ](https://github.com/fedecatinello/present-cypher)
 <br/>
 [Present code 4 ](https://www.oryx-embedded.com/doc/present_8c_source.html)
+[Present code 5 ](https://github.com/gmarkall/present)
+[Present code 6 ](https://github.com/pfasante/present)
