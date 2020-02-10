@@ -5,6 +5,9 @@
 <br/>
 [The GNU C Library](https://www.gnu.org/software/libc/manual/html_node/index.html#SEC_Contents)
 <br/>
+<br/>
+[ANF - Algebraic Normal Form ](https://blog.demofox.org/2016/04/09/turning-a-truth-table-into-a-digital-circuit-anf/)
+<br/>
 
 ## Codes :
 [Present code 1 ](http://www.lightweightcrypto.org/implementations.php)
