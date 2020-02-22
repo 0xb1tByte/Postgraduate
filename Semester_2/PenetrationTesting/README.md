@@ -1,6 +1,6 @@
 # Learning Resources :
 
-## 1 Reverse Engineering 
+## 1 - Reverse Engineering 
 ### Video  :arrow_forward: :
 
 ### Execrsices :pencil2: : 
