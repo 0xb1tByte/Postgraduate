@@ -1,15 +1,14 @@
 # Learning Resources :
 
-## Articles/Other Resources from Web:
-### 1 Reverse Engineering 
-##### Video  :arrow_forward: :
+## 1 Reverse Engineering 
+### Video  :arrow_forward: :
 
-##### Execrsices :pencil2: : 
+### Execrsices :pencil2: : 
 - [Reverse Engineering challenges - Book: Reverse Engineering for Beginners](https://challenges.re/)
 
-##### Useful Tools  :wrench: : 
+### Useful Tools  :wrench: : 
 
-##### Slides/Articles/Papers :book: :
+### Slides/Articles/Papers :book: :
 
 # My Project:
 ## Project 1:
